@@ -18,7 +18,7 @@ atv02/
 ├── cavalos.html         # Galeria dos cavalos lendários
 ├── pagina.html          # Página simplificada de fotos
 ├── README.md           # Este arquivo
-└── imagens/            # Todas as imagens dos cavalos e fotos pessoais
+└── img/                # Todas as imagens dos cavalos e fotos pessoais
     ├── me.jpg
     ├── foreveryoung.jpg
     ├── mr_cb.jpeg
@@ -130,17 +130,17 @@ Página simplificada com:
 
 ### Para adicionar seu próprio perfil:
 1. Edite `perfil.html`
-2. Substitua `me.jpg` por sua foto
+2. Substitua `img/me.jpg` por sua foto
 3. Atualize links de redes sociais
 4. Modifique informações pessoais
 
 ### Para adicionar mais cavalos:
-1. Adicione novas imagens na pasta
+1. Adicione novas imagens na pasta `img/`
 2. Edite `cavalos.html`
 3. Siga o padrão existente:
    ```html
    <div class="cavalo">
-       <img src="novo_cavalo.jpg">
+       <img src="img/novo_cavalo.jpg">
        <p>Nome do Cavalo (ANO)</p>
    </div>
    ```
