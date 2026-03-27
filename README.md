@@ -1,4 +1,4 @@
-# 🏇🏿Apaixonante Site🐴 - Projeto de Cavalos Lendários
+# Apaixonante Site🐴 - Projeto de Cavalos Lendários
 
 Projeto pessoal desenvolvido para exibir informações sobre cavalos lendários das corridas japonesas, além de um perfil pessoal interativo.
 
