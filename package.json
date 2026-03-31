@@ -1,0 +1,17 @@
+{
+  "name": "calculadora-desconto",
+  "version": "1.0.0",
+  "description": "Projeto de teste unitário para calculadora de desconto",
+  "main": "src/calculadora.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "keywords": ["test", "unit-test", "jest", "discount"],
+  "author": "Luis Henrique Costa Pereira",
+  "license": "MIT"
+}
